@@ -1,0 +1,2 @@
+# ImageLoaderDemo
+一个从网络加载图片的demo，实现了LruCache，DickCache双缓存机制，图片在显示时做了适配，按ImageView的宽高进行了缩放，节省内存消耗，对于初学者了解双缓存机制不失为一个不错的参考
